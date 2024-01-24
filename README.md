@@ -3,7 +3,7 @@
 <p><em>Backend PHP Developer at <a href="http://www.secret-source.eu">Secret Source</a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFzMzRkZmJsdzRnMTIzeHhibnA4NHg3bDlyeW0wdngxaWlma3VoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kHlrPbN9zaoOo7KXDo/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: gdiazossorio](https://img.shields.io/twitter/follow/gdiazossorio?style=social)](https://twitter.com/gdiazossorio)
+[![Twitter: grdonweb](https://img.shields.io/twitter/follow/grdonweb?style=social)](https://twitter.com/grdonweb)
 [![Linkedin: gdiazossorio](https://img.shields.io/badge/-gdiazossorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gdiazossorio/)](https://www.linkedin.com/in/gdiazossorio/)
 [![GitHub grdonweb](https://img.shields.io/github/followers/grdonweb?label=follow&style=social)](https://github.com/grdonweb)
 
